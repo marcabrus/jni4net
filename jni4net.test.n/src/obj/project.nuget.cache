@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sACoEGj/edJeKw4dJDiws2fQJAMsKMaFfxg34tsABNs632FewcCGraKjvgdMYDY2lmqwCepg4MRytUBWAj8a4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kosmu\\source\\repos\\jni4net.testCore\\jni4net.test.n\\src\\jni4net.test.n.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kosmu\\.nuget\\packages\\microsoft.dotnet.upgradeassistant.extensions.default.analyzers\\0.3.252501\\microsoft.dotnet.upgradeassistant.extensions.default.analyzers.0.3.252501.nupkg.sha512",
+    "C:\\Users\\kosmu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kosmu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
